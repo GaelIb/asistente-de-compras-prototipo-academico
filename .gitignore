@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+*.log
+.runtime/
+# Local training data and historical experiments are kept off GitHub.
+Online Retail.xlsx
+clientes_ml.csv
+datos_abandono.csv
+app_viejo.py
+modelo_abandono.pkl
