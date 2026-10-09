@@ -1,4 +1,4 @@
-# IKEA AI Experience
+# Asistente de compras — prototipo académico
 
 Prototipo educativo en Python y Streamlit con catálogo visual, simulación de riesgo de abandono, asistente virtual, pasos ilustrativos de armado y dashboard de demostración. No es una tienda oficial ni está conectado a inventarios, pagos o pedidos.
 
